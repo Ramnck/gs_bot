@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-tortoise-orm = "^0.19.2"
+tortoise-orm = "^0.19.3"
 aiogram = "3.0.0b6"
 python-decouple = "^3.6"
 asyncpg = "^0.27.0"
